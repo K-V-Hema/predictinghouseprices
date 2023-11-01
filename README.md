@@ -26,7 +26,7 @@ Provide a brief introduction to your project.Explain what the goal of the projec
 
 ## Installation
 Explain how to install or set up your project.Include any installation steps,such as:
--clone the repository:'git clone https://github.com/25priya2004/house-price-prediction.git'
+-clone the repository:'git clone https://github.com/K-V-Hema/house-price-prediction.git'
 -Install dependencies:'pip install -r requirements.txt'
 
 ## Usage
